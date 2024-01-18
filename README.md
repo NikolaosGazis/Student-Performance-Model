@@ -17,8 +17,12 @@ This Python program uses machine learning tools to analyze and graph data that r
 **Usage:**
 
 • Clone the repository.
+
+
 • Take care that the necessary libraries are installed (pandas, scikit-learn and matplotlib).
+
 • The data is only analyzed and interactable when you run the program, as instructed (python main.py).
+
 • Best to use on the IDE **Spyder** from Anaconda Navigator due to its flexability to work and visualize data.
 
 **Contributing:**
