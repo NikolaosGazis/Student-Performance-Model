@@ -1,6 +1,6 @@
 # Student Performance Analysis
 
-**Description:**
+## Description
 
 This Python program uses machine learning tools to analyze and graph data that represent the performance results for students. It has functionalities of reading a dataset, categorizing student performances and displaying statistics to each group where the users can be able to add more information about students. KMeans clustering is utilized in the program to group students according to their scores, which allows determining peers who are closest with almost equal results.
 
@@ -14,7 +14,7 @@ This Python program uses machine learning tools to analyze and graph data that r
 
 • Data Visualization: With Matplotlib, it generates a scatter plot containing the clusters created by KMeans algorithm.
 
-**Usage:**
+## Usage
 
 • Clone the repository.
 
@@ -25,9 +25,9 @@ This Python program uses machine learning tools to analyze and graph data that r
 
 • Best to use on the IDE **Spyder** from Anaconda Navigator due to its flexability to work and visualize data.
 
-**Contributing:**
+## Contributing:
 
 Go ahead and open issues, propose changes or submit pull requests to enhance the functionality of this program as well as how it will be used.
 
-**License:**
+## License:
 License of this project is free under the MIT license.
