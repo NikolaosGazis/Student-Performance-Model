@@ -6,7 +6,7 @@ This Python program uses machine learning tools to analyze and graph data that r
 
 ## Key Features:
 
-  • Data Preprocessing: Rat works with pandas and scikit-learn to read student performance data, turning the categorical variables into numeric kinds of values.
+  - Data Preprocessing: Rat works with pandas and scikit-learn to read student performance data, turning the categorical variables into numeric kinds of values.
 
   • Clustering: Allows dividing students into groups based on their average scores using KMeans clustering, so that the users may choose intervals.
 
