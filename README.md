@@ -29,4 +29,4 @@ This Python program uses machine learning tools to analyze and graph data that r
   - Go ahead and open issues, propose changes or submit pull requests to enhance the functionality of this program as well as how it will be used.
 
 ## License
-License of this project is free under the [MIT license](https://github.com/NikolaosGazis/Student-Perfomance-Model?tab=MIT-1-ov-file).
+The project is licensed under the [MIT License](https://github.com/NikolaosGazis/Student-Perfomance-Model?tab=MIT-1-ov-file).
