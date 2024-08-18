@@ -1,4 +1,4 @@
-# Student Performance Analysis
+# Student Performance Model
 
 ## Description
 
@@ -28,5 +28,5 @@ This Python program uses machine learning tools to analyze and graph data that r
 
   - Go ahead and open issues, propose changes or submit pull requests to enhance the functionality of this program as well as how it will be used.
 
-## License
-The project is licensed under the [MIT License](https://github.com/NikolaosGazis/Student-Perfomance-Model?tab=MIT-1-ov-file).
+### License
+The repository is licensed under the [MIT License](https://github.com/NikolaosGazis/Student-Perfomance-Model?tab=MIT-1-ov-file).
